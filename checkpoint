@@ -1,0 +1,2 @@
+model_checkpoint_path: "TrafficSignClassifier_fake"
+all_model_checkpoint_paths: "TrafficSignClassifier_fake"
